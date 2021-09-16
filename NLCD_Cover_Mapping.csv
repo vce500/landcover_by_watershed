@@ -1,0 +1,23 @@
+﻿NLCD Class Name,Remapped Class Name
+"These are standard NLCD classes, and should not be changed, unless the source dataset changes.",New aggregated group names can be specified here.
+"Classes from the MLRC's NLCD, which are different than what Esri uses in their hosted image service.",
+Source:,
+NLCD 2019 Land Cover (CONUS) | Multi-Resolution Land Characteristics (MRLC) Consortium,
+,
+Unclassified,Unclassified
+Open Water,Water
+Perennial Snow/Ice,Tundra
+"Developed, Open Space",Developed
+"Developed, Low Intensity",Developed
+"Developed, Medium Intensity",Developed
+"Developed, High Intensity",Developed
+Barren Land,Open
+Deciduous Forest,Forest
+Evergreen Forest,Forest
+Mixed Forest,Forest
+Shrub/Scrub,Open
+Herbaceous,Open
+Hay/Pasture,Open
+Cultivated Crops,Open
+Woody Wetlands,Wetlands
+Emergent Herbaceous Wetlands,Wetlands
